@@ -9,8 +9,8 @@ module.exports = {
     connection: {
       filename: './data/lambda.db3'
     },
-    migratons: {
-      directory: './data/migratons'
+    migrations: {
+      directory: './data/migrations'
     }
   }
 
